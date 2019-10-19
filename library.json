@@ -22,7 +22,7 @@
       "platforms": "espressif8266"
     },
     {
-      "name": "AsyncTCP-esphome",
+      "name": "AsyncTCP",
       "version": "^1.1.1",
       "platforms": "espressif32"
     }
